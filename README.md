@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello! My name is John Christian</h1>
 <h3 align="center">I'm a BSIT Student at Polytechnic University of the Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jchristian25&label=Profile%20views&color=0e75b6&style=flat" alt="jchristian25" /> </p>
